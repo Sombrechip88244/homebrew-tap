@@ -1,8 +1,8 @@
 class ShellSwitcher < Formula
   desc "A simple shell switcher written in a shell script"
   homepage "https://github.com/Sombrechip8824/SS---Shell-Switcher"
-  url "https://github.com/Sombrechip8824/SS---Shell-Switcher/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "330da8f19c804b2404fb0e0d4928d80195684fd057606c10c2230d88f770106220"
+  url "https://github.com/Sombrechip8824/SS---Shell-Switcher/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "cdaad89fca57700b79efa7cc302e27368c2030deadca03ed4c3959a7bc045640"
   license "GPL-3.0"
 
   def install
