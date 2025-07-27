@@ -1,13 +1,13 @@
 class ShellSwitcher < Formula
   desc "A simple shell switcher written in a shell script"
   homepage "https://github.com/Sombrechip88244/SS---Shell-Switcher"
-  url "https://github.com/Sombrechip88244/SS---Shell-Switcher/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "cdaad89fca57700b79efa7cc302e27368c2030deadca03ed4c3959a7bc045640"
+  url "https://github.com/Sombrechip88244/SS---Shell-Switcher/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "97fd61e8cc364ec301f8f59295e5197323ec6fd51e81c1dc1d5661db9e7396bew"
   license "GPL-3.0"
 
   def install
     bin.install "main.sh" => "shell-switcher"
-    
+    man1.install "man/shell-switcher.1"
     # Make the script executable
     chmod 0755, bin/"shell-switcher"
   end
