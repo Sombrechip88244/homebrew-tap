@@ -1,4 +1,4 @@
-class ss < Formula
+class Ss < Formula
   desc "A simple shell switcher written in a shell script"
   homepage "https://github.com/Sombrechip88244/ss"
   url "https://github.com/Sombrechip88244/ss/archive/refs/tags/v1.1.2.tar.gz"
