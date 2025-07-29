@@ -1,7 +1,7 @@
 class Ss < Formula
   desc "A simple shell switcher written in a shell script"
   homepage "https://github.com/Sombrechip88244/ss"
-  url "https://github.com/Sombrechip88244/ss/archive/refs/tags/v1.1.2.tar.gz"
+  url "https://github.com/Sombrechip88244/ss/archive/refs/tags/v1.1.3.tar.gz"
   sha256 "d4fc8bae7b76f4148da916bdf6fbccb320521fd3affb78efd708dbb9ac788674"
   license "GPL-3.0"
 
