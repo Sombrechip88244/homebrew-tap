@@ -1,1 +1,1 @@
-# homebrew-tap-ss
+# homebrew-tap
